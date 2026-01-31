@@ -1,0 +1,17 @@
+# Ignore machine learning models
+models/
+notebook/
+
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache
+__pycache__/
+.pytest_cache/
+
+# Ignore OS generated files
+.DS_Store
+
+# Ignore datasets
+data/
+output/predictions/

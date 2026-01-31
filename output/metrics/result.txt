@@ -1,0 +1,21 @@
+======================================================================
+Credit Card Fraud Detection - Evaluation Results
+======================================================================
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+           0     0.9996    0.9999    0.9998     56651
+           1     0.9259    0.7895    0.8523        95
+
+    accuracy                         0.9995     56746
+   macro avg     0.9628    0.8947    0.9260     56746
+weighted avg     0.9995    0.9995    0.9995     56746
+
+
+KEY METRICS
+Accuracy:   0.9995
+Precision:  0.9259
+Recall:     0.7895
+F1-Score:   0.8523
+ROC-AUC:    0.9747
